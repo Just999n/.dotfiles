@@ -1,3 +1,5 @@
+Yixuan
+
 # My Dotfiles
 These are my dotfile configuration files for different software in Bash.
 ## .vimrc
